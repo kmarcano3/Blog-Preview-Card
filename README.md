@@ -1,7 +1,5 @@
 # Blog preview card
 
-(./preview.jpg)
-
 ## Table of contents
 
 - [Frontend Mentor](#frontend-mentor)
