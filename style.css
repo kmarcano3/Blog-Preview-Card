@@ -1,0 +1,58 @@
+html {
+    background-color: hsl(47, 88%, 63%);
+}
+body {
+    text-align: left;
+    font-size: 1em;
+    font-weight: 500;
+    font-family: 'Figtree';
+}
+main {
+    background-color: hsl(0, 0%, 100%);
+    margin: auto;
+    height: 475px;
+    width: 350px;
+    position: fixed;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%, -50%);
+    padding: 1.5em;
+    border-radius: 1.2rem;
+    border: 1.5px solid #222;
+    box-shadow: 8px 8px #222;
+}
+.illustration-article {
+    width: 350px;
+    height: auto;
+    border-radius: .75rem;
+}
+p {
+    font-size: 1em;
+}
+.p1 {
+    font-weight: 700;
+    background-color: hsl(47, 88%, 63%);
+    width: fit-content;
+    padding: .25rem .75rem;
+    border-radius: .25rem;
+}
+.p3 {
+    color: hsl(0, 0%, 42%);
+    opacity: .7;
+}
+.avatar {
+    display: flex;
+    align-items: center;
+    vertical-align: middle;
+    
+}
+.image-avatar {
+    height: 2.2em;
+    width: auto;
+    left: 0;
+
+}
+.avatar p {
+    font-weight: 700;
+    margin-left: 1em;
+}
